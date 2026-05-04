@@ -247,12 +247,32 @@
     "TEXT": "Ordonnances"
   },
 
-  "DIALYSIS-SESSIONS": {
-    "TEXT": "Fiche de soins"
+  "LAB-EXAM-CATALOGS": {
+    "TEXT": "Liste des soins"
   },
   "Hour": "Heure"
 },
   "app": { 
+    "add_nursingActCatalog" : "Ajouter un soin",
+    "nursingActs": "Liste des soins",
+    "nursingActCatalogs" : "Catalogues des soins infirmiers",
+    "add_labExamCatalog" : "Ajouter un examen",
+    "is_active" : "Actif",
+    "labExamCatalogs": "Catalogues des examens",
+    "turnaround_days" : "Délai de rendu", 
+    "sample_required" : "Prélèvement requis",
+    "preparation_instructions" : "Instructions de préparation du patient",
+    "blood" : "Sang", 
+    "urine" : "Urine",
+    "stool" : "Selles",
+    "culture" : "Urgence",
+    "imaging" : "Imagerie",
+    "rapid_test" : "Test rapide",
+    "other" : "Autre",
+    "first_visit" : "1ère visite",
+    "follow_up" : "Suivi",
+    "emergency" : "Urgence",
+    "department" : "Departement",
     "company_covered" : "Entreprise prise en charge",
     "single" : "Célibataire",
     "married" : "Marié",
