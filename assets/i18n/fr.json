@@ -218,7 +218,7 @@
     "TEXT": "Constantes patient"
   },
   "NURSING-ACT-CATALOGS": {
-    "TEXT": "Catalogue actes"
+    "TEXT": "Catalogue des soins"
   },
   "APPOINTMENTS": {
     "TEXT": "Rendez-vous"
@@ -253,6 +253,7 @@
   "Hour": "Heure"
 },
   "app": { 
+    "act_name" : "Soin realisé",
     "add_nursingActCatalog" : "Ajouter un soin",
     "nursingActs": "Liste des soins",
     "nursingActCatalogs" : "Catalogues des soins infirmiers",
