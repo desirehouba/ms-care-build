@@ -201,6 +201,10 @@
     "TEXT": "Forum"
   },
 
+  "ROLES": {
+    "TEXT": "Postes"
+  },
+
   "RECIPES": {
     "TEXT": "Recettes"
   },
@@ -252,7 +256,14 @@
   },
   "Hour": "Heure"
 },
-  "app": { 
+  "app": {  
+    "roles" : "Liste des postes",
+    "departements" : "Liste des services",
+    "add_departement" : "Ajouter un service",
+    "labRequests" : "Examens Planifiés",
+    "add_labRequests" : "Planifié un Examen",
+    "labExamPacks" : "Packs des examens disponible",
+    "add_labExamPack" : "Ajouter un pack d'examen",
     "act_name" : "Soin realisé",
     "add_nursingActCatalog" : "Ajouter un soin",
     "nursingActs": "Liste des soins",
