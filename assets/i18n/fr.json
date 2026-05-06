@@ -237,6 +237,9 @@
   "RESULTS-ENTRY": {
     "TEXT": "Examens effectués"
   },
+  "RESULTS-EXAMS": {
+    "TEXT": "Resultats des examens"
+  },
 
 
   "TEST-CATALOG": {
@@ -257,6 +260,11 @@
   "Hour": "Heure"
 },
   "app": {  
+    "labResults" : "Resultats des examens",
+    "add_labResults" : "Enregistrer un resultat d examen",
+    "sale_price" : "Prix de vente",
+    "purchase_price" : "Prix d'achat",
+    "stock_alert" : "Stock alert",
     "roles" : "Liste des postes",
     "departements" : "Liste des services",
     "add_departement" : "Ajouter un service",
