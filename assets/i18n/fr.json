@@ -248,10 +248,22 @@
   "TEST-PACKAGES": {
     "TEXT": "Packs d'examens"
   }, 
+  
+  "HOSPITALISATION": {
+    "TEXT": "HOSPITALISATIONS"
+  }, 
+
+  "CARE-SCHEDULES": {
+    "TEXT": "Planning de soins"
+  }, 
+
 
  
   "PRESCRITIONS": {
     "TEXT": "Ordonnances"
+  },
+  "ADMISSIONS": {
+    "TEXT": "Admissions"
   },
 
   "LAB-EXAM-CATALOGS": {
@@ -260,6 +272,13 @@
   "Hour": "Heure"
 },
   "app": {  
+    "careSchedules" : "Liste des programme de soin",
+    "add_careSchedules" : "Ajouter une programme de soin",
+    "transferred" : "Transferé",
+    "active" : "Actif",
+    "discharged" : "Déchargé",
+    "admissions" : "liste des admissions",
+    "add_admission" : "Enregistrer une admission",
     "labResults" : "Resultats des examens",
     "add_labResults" : "Enregistrer un resultat d examen",
     "sale_price" : "Prix de vente",
