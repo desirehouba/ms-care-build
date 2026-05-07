@@ -257,6 +257,10 @@
     "TEXT": "Planning de soins"
   }, 
 
+  "CARE-SCHEDULES-EXECUTIONS": {
+    "TEXT": "Soins effectués"
+  }, 
+
 
  
   "PRESCRITIONS": {
@@ -272,7 +276,7 @@
   "Hour": "Heure"
 },
   "app": {  
-    "careSchedules" : "Liste des programme de soin",
+    "careSchedules" : "plannings des soins",
     "add_careSchedules" : "Ajouter une programme de soin",
     "transferred" : "Transferé",
     "active" : "Actif",
