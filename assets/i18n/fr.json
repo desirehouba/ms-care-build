@@ -51,7 +51,7 @@
     "TEXT": "Types de Pièce"
   },
   "ROOMS": {
-    "TEXT": "Pieces / Chambres"
+    "TEXT": "Chambres"
   },
   "BOOKINGS": {
     "TEXT": "Réservations"
@@ -240,6 +240,9 @@
   "RESULTS-EXAMS": {
     "TEXT": "Resultats des examens"
   },
+  "BETS": {
+    "TEXT": "Lits "
+  },
 
 
   "TEST-CATALOG": {
@@ -276,6 +279,11 @@
   "Hour": "Heure"
 },
   "app": {  
+    "beds" : "liste des lits ",
+    "add_bed" : "Ajouter un lit",
+    "rooms" : "Liste des chambres",
+    "add_room" : "Ajouter une chambre",
+    "number_beds" : "Nombre de lits",
     "careSchedules" : "plannings des soins",
     "add_careSchedules" : "Ajouter une programme de soin",
     "transferred" : "Transferé",
@@ -446,8 +454,7 @@
     "add_appointment" : "Plannifier un rendez-vous avec un patient",
     "room" : "Pieces / Chambres",
     "categorie" : "Categorie",
-    "etage_numbert" : "Numero de étage",
-    "add_room": "Créer une Pièce",
+    "etage_numbert" : "Numero de étage", 
     "booking" : "Réservation",
     "add_booking" : "Créer une réservation",
     "article" : "Article",
