@@ -264,8 +264,6 @@
     "TEXT": "Soins effectués"
   }, 
 
-
- 
   "PRESCRITIONS": {
     "TEXT": "Ordonnances"
   },
@@ -279,6 +277,8 @@
   "Hour": "Heure"
 },
   "app": {  
+    "careExecutions" : "Liste des soins du planning",
+    "consultation_number" : "Numero de la consultation ",
     "beds" : "liste des lits ",
     "add_bed" : "Ajouter un lit",
     "rooms" : "Liste des chambres",
