@@ -274,9 +274,22 @@
   "LAB-EXAM-CATALOGS": {
     "TEXT": "Liste des soins"
   },
+
+  
+  "DAILY-REPORTS": {
+    "TEXT": "Rapports journaliers"
+  },
   "Hour": "Heure"
 },
   "app": {  
+    "dailyReports" : "Rapports journaliers",
+    "add_dailyReport" : "Ajouter un Rapport journalier",
+    "scheduled_at" : "Prévu à",
+    "executed_at" : "Exécuté à",
+    "plannig" : "Plannig",
+    "nurse" : "Infirmier(e)",
+    "late" : "En retard",
+    "delay_minutes" : "Retard de",
     "careExecutions" : "Liste des soins du planning",
     "consultation_number" : "Numero de la consultation ",
     "beds" : "liste des lits ",
