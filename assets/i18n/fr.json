@@ -279,6 +279,10 @@
   "DAILY-REPORTS": {
     "TEXT": "Rapports journaliers"
   },
+
+  "INVOICES": {
+    "TEXT": "Factures"
+  },
   "Hour": "Heure"
 },
   "app": {  
