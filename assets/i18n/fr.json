@@ -286,6 +286,7 @@
   "Hour": "Heure"
 },
   "app": {  
+    "from" : "De",
     "no_results" : "Aucun résultat : Veuillez controler les filtres et actualiser la page",
     "dailyReports" : "Rapports journaliers",
     "add_dailyReport" : "Ajouter un Rapport journalier",
