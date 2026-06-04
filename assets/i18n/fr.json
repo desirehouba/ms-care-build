@@ -138,6 +138,9 @@
   "PAYMENTTYPES": {
     "TEXT": "Types de Paiement"
   },
+  "EXPENSES-TYPE": {
+    "TEXT": "Types de dépenses"
+  },
   "CUSTOMERS": {
     "TEXT": "Patients"
   },
@@ -235,7 +238,7 @@
 
 
   "RESULTS-ENTRY": {
-    "TEXT": "Examens effectués"
+    "TEXT": "Liste des examens"
   },
   "RESULTS-EXAMS": {
     "TEXT": "Resultats des examens"
@@ -283,9 +286,23 @@
   "INVOICES": {
     "TEXT": "Factures"
   },
+
+  "MATERIELS": {
+    "TEXT": "Materiels"
+  },
   "Hour": "Heure"
 },
   "app": {  
+    "medicament" :"Medicament",
+    "materiel" : "Materiel",
+    "container_quantity" : "Quantité du contenu",
+    "container_unit" : "Unité de mesure du contenu", 
+    "unit_of_measurement" : " Unité de mesure",
+    "materiels" : "Materiels",
+    "advance" :"Avancée",
+    "insurance_rate" : "Pourcentage d'assurance",
+    "comments" : "Commentaires",
+    "Insurance" : "Assurance",
     "from" : "De",
     "no_results" : "Aucun résultat : Veuillez controler les filtres et actualiser la page",
     "dailyReports" : "Rapports journaliers",
