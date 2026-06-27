@@ -293,6 +293,7 @@
   "Hour": "Heure"
 },
   "app": {  
+    "stock" : "Stock",
     "medicament" :"Medicament",
     "materiel" : "Materiel",
     "container_quantity" : "Quantité du contenu",
