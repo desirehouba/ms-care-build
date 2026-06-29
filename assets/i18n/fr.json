@@ -290,6 +290,10 @@
   "MATERIELS": {
     "TEXT": "Materiels"
   },
+
+  "RETRAITS": {
+    "TEXT": "Retraits"
+  },
   "Hour": "Heure"
 },
   "app": {  
